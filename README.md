@@ -8,4 +8,4 @@ We value any and all contributions, and we do our best to keep our documentation
 
 
 
-If anything is missing, feel free to reach out to us, or file a suggestion for an improvement to our documentation here: \<TBD>
+If anything is missing, feel free to reach out to us, or file a suggestion for an improvement to our documentation here: [https://github.com/CollActionteam/collaction\_docs](https://github.com/CollActionteam/collaction\_docs)
