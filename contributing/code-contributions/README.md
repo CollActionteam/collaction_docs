@@ -9,4 +9,4 @@ description: >-
 
 Before making a code contribution, you should review our guidelines and our conventions. Failure to do so might mean we will ask you to change your pull request, technical document, software design, or other contribution, and refrain from merging/using it, until it lives up to our guidelines.
 
-If you are looking to file a Feature Request or Bug Report, see [no-code-contributions.md](../no-code-contributions.md "mention").
+If you are looking to file a Feature Request or Bug Report, see [no-code-contributions](../no-code-contributions/ "mention").
